@@ -1,9 +1,5 @@
 ```md
 # 🦾 𝔸𝕀𝕊ℍ𝕀 | 𝕋𝕙𝕖 𝔻𝕒𝕣𝕜 𝔻𝕖𝕧  👾
-
-```bash
-> whoami
-AishiDaBoi | Cyberpunk Developer & Tech Enthusiast
 ```
 
 ---
